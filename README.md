@@ -2,7 +2,7 @@
 
 Machine Learning | Software Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **Aditya2814/Aditya2814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
