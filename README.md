@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Aditya
 
+💻 Developer | 🌱 Learning [Tech] | 🚀 Building [Something cool]
+
 <!--
 **Aditya2814/Aditya2814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
