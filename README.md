@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aditya
+## Hi there 👋 I'm Aditya!
 
 Machine Learning | Software Development
 
